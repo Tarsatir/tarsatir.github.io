@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. Candidate at the <a href='https://uva.computationalscience.nl/'>Computational Science Lab</a>. 
 
 profile:
   align: right
   image: Profile_EAGx.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room L6.24 </p>
+    <p>Science Park 900</p>
+    <p>1098 XH Amsterdam</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
