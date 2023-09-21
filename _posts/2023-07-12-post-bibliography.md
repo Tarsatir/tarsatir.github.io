@@ -7,7 +7,6 @@ tags: formatting bib
 categories: sample-posts
 giscus_comments: true
 related_posts: false
-related_publications: 
 ---
 
 The distinction between predictive and causal explanations is often treated as fundamental in various scientific disciplines. Predictive models aim to forecast outcomes based on input data, while causal models seek to understand the underlying mechanisms that give rise to those outcomes. However, from a pragmatic standpoint, this distinction becomes blurrier. Essentially, both types of models serve as predictive tools; they are both attempts to anticipate future states or outcomes based on current and past information.
