@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Determine the Scales of Growth
+description: Using remote sensing to estimate the adequate scope of analysis.
+img: assets/img/14.png
 importance: 2
 category: work
 ---
