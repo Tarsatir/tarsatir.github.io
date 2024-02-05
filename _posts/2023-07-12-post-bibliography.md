@@ -3,8 +3,8 @@ layout: post
 title: "A thought-vomit on models"
 date: 2023-07-12 09:56:00-0400
 description: an example of a blog post with bibliography
-tags: formatting bib
-categories: sample-posts
+tags: Representation, Models, Causality, Prediction
+categories: Philosophy of Science
 giscus_comments: true
 related_posts: false
 ---
