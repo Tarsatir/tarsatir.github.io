@@ -18,13 +18,13 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page 
 ---
-As a Ph.D. candidate at the [Computational Science Lab](https://uva.computationalscience.nl/), my work intersects stochastic modeling, information theory, game theory, and network theory. My goal is to refine methodologies that unravel complex questions about economic development, global poverty and fundamental questions in governance.
+As a Ph.D. candidate at the [Computational Science Lab](https://uva.computationalscience.nl/), my work intersects several fields of study which are for the most part, not traditionally associated with each other. Those fields include economics, physics, and computer science. Im motivated by improving methodologies that provide guidance for policy-making and economic development, specifically in the context of economic development and global poverty.
 
-My academic path began with a deep interest in complex systems within biology, leading me to study physics. This journey evolved into applying these scientific frameworks to social sciences, particularly in understanding cooperation emergence and policy processes.
+My academic path began with a deep interest in complex systems within biology, leading me to study physics, molecular modelling techniques. Gathering more modelling tools and better understanding of them, sparked my interest in applying these to social sciences, particularly in understanding cooperation emergence and policy processes.
 
-Currently, my research focuses on three key questions: methodologies that allow to effectively aggregating information from various sources into consistent economic models, identifying the right scales for analyzing economic growth, and understanding the necessary conditions that lead to coordination failure in economic development.
+Currently, my research focuses on three key questions: methodologies that allow to effectively aggregating information from various sources into one consistent model, identifying the right scales for analyzing economic development, and understanding the necessary conditions that lead to coordination failure in social systems.
 
-Apart from research, I engage in diverse teaching roles, covering theoretical physics, quantum physics, and agent-based modeling. My teaching philosophy emphasizes transparency in thought processes and conceptual understanding, empowering students to make their own informed decisions.
+
 
 <!--
 I work on problems related to economic development and poverty using computational science and applied mathematics. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

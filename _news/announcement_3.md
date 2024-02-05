@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submission of first paper! :sparkles: :smile:
+Submission of first paper! Preprint will follow! :sparkles: :smile:
