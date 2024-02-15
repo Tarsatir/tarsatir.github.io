@@ -18,11 +18,11 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page 
 ---
-As a Ph.D. candidate at the [Computational Science Lab](https://uva.computationalscience.nl/), my work intersects several fields of study which are for the most part, not traditionally associated with each other. Those fields include economics, physics, and computer science. Im motivated by improving methodologies that provide guidance for policy-making and economic development, specifically in the context of economic development and global poverty.
+As a Ph.D. candidate at the [Computational Science Lab](https://uva.computationalscience.nl/), my work intersects several fields of study, which include economics, physics, and computer science. These fields intersect yet remain distinct. I'm motivated by the goal of improving methodologies that provide guidance for policy-making and economic development, specifically in the context of development, global poverty, and collective decision-making.
 
-My academic path began with a deep interest in complex systems within biology, leading me to study physics, molecular modelling techniques. Gathering more modelling tools and better understanding of them, sparked my interest in applying these to social sciences, particularly in understanding cooperation emergence and policy processes.
+Starting from an interest in complex systems within biology, which led me to study physics and molecular modeling techniques, I expanded my skills in generating and interpreting models. I then observed that such approaches are underutilized in the social sciences, particularly in understanding the emergence of cooperation and policy processes.
 
-Currently, my research focuses on three key questions: methodologies that allow to effectively aggregating information from various sources into one consistent model, identifying the right scales for analyzing economic development, and understanding the necessary conditions that lead to coordination failure in social systems.
+My current research focuses on three key questions: methodologies that allow for the effective aggregation of information from various sources into one consistent model, identifying the appropriate scales for analyzing economic development, and understanding the conditions that lead to coordination failure in social systems.
 
 
 
