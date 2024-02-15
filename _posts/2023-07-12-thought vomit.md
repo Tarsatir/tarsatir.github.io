@@ -7,11 +7,12 @@ tags: Representation, Models, Causality, Prediction
 categories: Philosophy of Science
 giscus_comments: true
 related_posts: false
+published: false
 ---
 
-Recent discussions I had often portray the difference between predictive and causal explanations as a fundamental one. Yet, from a practical viewpoint, this I feel this distinction isn't as clear-cut as it might seem.
+Recent discussions I had often portray the difference between predictive and causal explanations as a fundamental one. Yet, from a practical viewpoint, I feel this distinction isn't as clear-cut as it might seem.
 
-The essence of any predictive model is a simplified portrayal of reality. This involves using reductions or idealizations to encapsulate the interplay among selected variables. The pivotal choice, though, is in determining which variables to monitor. Given this selection, the divergence between a causal and a predictive model becomes more apparent. Predictive models primarily concentrate on the outputs of the data generation process, judged by their accuracy. In contrast, causal models delve into the architecture of this process. Consequently, the criteria for acceptable data generation differ markedly between these two approaches.
+The essence of any model is a simplified portrayal of reality. This involves using reductions or idealizations to encapsulate the interplay among selected variables. The important choice, though, is in determining which variables to monitor. Given this selection, the difference between causal and a predictive models becomes more clear for me. Predictive models primarily concentrate on the outputs of a given data generating process, and judged by their accuracy. In contrast, causal models delve into the architecture of this process. Consequently, the criteria for acceptable data generation differ markedly between these two approaches.
 
 One might argue that causal models typically face stricter constraints, but this largely hinges on the observable variables chosen. Take predicting the outcome of a dice roll, for instance. One could adopt a statistical approach or delve into Newtonian mechanics.
 
