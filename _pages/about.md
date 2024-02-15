@@ -18,7 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page 
 ---
-As a Ph.D. candidate at the [Computational Science Lab](https://uva.computationalscience.nl/), my work intersects several fields of study, which include economics, physics, and computer science. These fields intersect yet remain distinct. I'm motivated by the goal of improving methodologies that provide guidance for policy-making and economic development, specifically in the context of development, global poverty, and collective decision-making.
+As a Ph.D. candidate at the [Computational Science Lab](https://uva.computationalscience.nl/), my work intersects several fields of study, including economics, physics, and computer science. These fields intersect yet remain distinct. I'm motivated by the goal of improving methodologies that provide guidance for policy-making and economic development, specifically in the context of development, global poverty, and collective decision-making.
 
 Starting from an interest in complex systems within biology, which led me to study physics and molecular modeling techniques, I expanded my skills in generating and interpreting models. I then observed that such approaches are underutilized in the social sciences, particularly in understanding the emergence of cooperation and policy processes.
 
