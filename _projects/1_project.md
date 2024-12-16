@@ -6,76 +6,112 @@ img: assets/img/13.png
 importance: 1
 category: work
 ---
-<!--
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
+
+## Project Overview
+
+Understanding social mobility is critical for addressing inequality and fostering sustainable development. This project develops a **non-parametric, multidimensional approach** to model social mobility using Markov chains. By estimating transition matrices, we uncover the hidden dynamics of mobility across socio-economic dimensions, enabling a nuanced understanding of structural and exchange mobility patterns.
+
+---
+
+## Visual Insights
+
+### Pathways and Bottlenecks in Social Mobility
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/styl_potential.png" title="Social Mobility Pathways" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The figure illustrates that existing pathways might follow certain sequences and reveal information about the order of successful interventions, or where bottlenecks lie. The shortes path might or might not be the most efficient path to improve overall welfare. 
 </div>
+
+**Why This Matters:**  
+Identifying common pathways and bottlenecks in social mobility enables better policy design by revealing where structural barriers exist. By targeting these barriers, policymakers can enhance access to opportunities and improve socio-economic resilience.
+
+---
+
+## Key Contributions
+
+- **Theoretical Framework:** A novel method for transition matrix estimation tailored to multidimensional social mobility analysis.
+- **Data Integration:** Utilization of high-quality longitudinal household datasets from EUROSTAT and Dutch CBS.
+- **Error Estimation:** Comprehensive uncertainty quantification through Frobenius norms and comparisons of cross-sectional data distributions.
+- **Policy Insights:** Data-driven guidance for designing equitable interventions to reduce poverty and enhance social equity.
+
+---
+
+## Research Methodology
+
+Our approach models household-level transitions in socioeconomic states using Markov chains. The methodology consists of three main components:
+
+- **Data Preprocessing:** Discretizing state-space dimensions like income, education, and occupation.
+- **Matrix Estimation:** Applying optimization techniques to infer the most probable transition matrices from observed data.
+- **Analysis:** Calculating relevant metrics such as mixing times, recurrence rates, and resilience indicators.
+
+---
+
+### Research Workflow and Core Findings
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/methodology.jpg" title="Research Workflow" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/results.jpg" title="Core Findings" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    The left panel outlines the research workflow from data collection to policy recommendations. The right panel highlights key findings about socio-economic mobility across different countries.
+</div>
+
+**Why This Matters:**  
+The research workflow ensures a systematic and replicable process for analyzing social mobility dynamics, leading to actionable insights that inform public policy and resource allocation.
+
+---
+
+## Results & Policy Implications
+
+### Social Mobility Disruptions from the COVID-19 Pandemic
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/COVID_mobility.png" title="Pandemic-Induced Barriers" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The figure illustrates changes in social mobility patterns during the COVID-19 pandemic, emphasizing newly emerged barriers and reduced mobility potential.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+**Key Insight:**  
+The COVID-19 pandemic significantly reduced social mobility, particularly in countries like the Netherlands, where a unique "triple-well" potential emerged, creating substantial upward mobility barriers.
 
+---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+### Multidimensional Poverty Analysis
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/MPI_panel.png" title="Income and Education Landscapes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    The figure displays socio-economic landscapes, mapping income (PY010) against education (PE040) for three countries, revealing key mobility pathways.
 </div>
 
+**Policy Insight:**  
+By analyzing multiple dimensions such as income and education, informed by the OPHI MPI framework, we can pinpoint the most vulnerable groups and identify strategic intervention points for enhancing mobility.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+---
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+### Future Research Directions
+
+<div class="caption">
+    Future work will explore additional social mobility dimensions, linking this framework to welfare economics literature. This will enable projecting high-dimensional mobility spaces into simplified metrics, guiding policy design toward maximizing welfare state occupation and improving social equity outcomes.
 </div>
-```
-{% endraw %}
--->
